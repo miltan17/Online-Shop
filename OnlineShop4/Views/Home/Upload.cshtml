@@ -1,0 +1,64 @@
+﻿@model OnlineShop4.ProductGalary
+
+@{
+    ViewBag.Title = "Upload";
+}
+
+<h2>Upload</h2>
+@using (Html.BeginForm("Upload", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.ValidationSummary(true)
+    <table>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.Model)
+            </td>
+            <td>
+                @Html.EditorFor(model => model.Model)
+                @Html.ValidationMessageFor(model => model.Model)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.Brand)
+            </td>
+            <td>
+                @Html.EditorFor(model => model.Brand)
+                @Html.ValidationMessageFor(model => model.Brand)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.Description)
+            </td>
+            <td>
+                @Html.EditorFor(model => model.Description)
+                @Html.ValidationMessageFor(model => model.Description)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.Price)
+            </td>
+            <td>
+                @Html.EditorFor(model => model.Price)
+                @Html.ValidationMessageFor(model => model.Price)
+            </td>
+        </tr>
+       
+        <tr>
+            <td>Select File:</td>
+            <td>
+                @Html.TextBoxFor(Model => Model.File, new { type="file"})
+                @Html.ValidationMessage("CustomError")
+
+            </td>
+            <td>
+                <input type="submit" value="Upload"  />
+            </td>
+        </tr>
+    </table>
+}
+@section Scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+}

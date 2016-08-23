@@ -1,0 +1,37 @@
+﻿@model OnlineShop4.ProductGalary
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="productDetails">
+    
+    <table>
+        <tr>
+            <td>
+                <div class="title">
+                    <h2>@Model.Model</h2>
+                </div>
+                <div class="image">
+                     <img src ="data:image/png;base64,@Convert.ToBase64String(Model.ImageData,0,Model.ImageData.Length)" width="400" />
+                </div>
+            </td>
+            <td>
+                <div class="description">
+                   <h3>
+                       @Model.Description
+                   </h3>
+                </div>
+            </td>
+            
+            <td>
+                <h3 class="price">@Model.Price$</h3>
+            </td>
+        </tr>
+    </table>
+    <h2>
+        @Html.ActionLink("Purchase","Bye","Home")
+         this item
+    </h2>
+         
+</div>

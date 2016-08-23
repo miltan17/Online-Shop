@@ -1,0 +1,147 @@
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\OnlineShop4.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\OnlineShop4.pdb
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\Antlr3.Runtime.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.AspNet.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.Core.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OAuth.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OpenId.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\EntityFramework.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\Microsoft.Web.Infrastructure.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\Newtonsoft.Json.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Net.Http.Formatting.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Web.Helpers.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Web.Http.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Web.Http.WebHost.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Web.Mvc.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Web.Optimization.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Web.Razor.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.Deployment.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.Razor.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\WebGrease.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\WebMatrix.Data.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\WebMatrix.WebData.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\EntityFramework.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\Newtonsoft.Json.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Net.Http.Formatting.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Web.Helpers.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Web.Http.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Web.Http.WebHost.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Web.Mvc.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Web.Razor.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.Deployment.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.Razor.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\WebMatrix.Data.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\WebMatrix.WebData.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.AspNet.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.Core.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OAuth.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OpenId.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\obj\Debug\OnlineShop4.dll
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\obj\Debug\OnlineShop4.pdb
+F:\LostFiles2\C#\Practice\DBMS\CSE 600\OnlineShop4\OnlineShop4\obj\Debug\OnlineShop4.csprojResolveAssemblyReference.cache
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\OnlineShop4.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\OnlineShop4.pdb
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\Antlr3.Runtime.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.AspNet.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.Core.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OAuth.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OpenId.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\EntityFramework.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\Microsoft.Web.Infrastructure.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\Microsoft.Web.WebPages.OAuth.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\Newtonsoft.Json.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Net.Http.Formatting.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Helpers.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Http.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Http.WebHost.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Mvc.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Optimization.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Razor.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.Deployment.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.Razor.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\WebGrease.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\WebMatrix.Data.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\WebMatrix.WebData.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\EntityFramework.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\Newtonsoft.Json.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Net.Http.Formatting.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Helpers.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Http.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Http.WebHost.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Mvc.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Razor.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.Deployment.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.Razor.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\WebMatrix.Data.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\Microsoft.Web.WebPages.OAuth.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\WebMatrix.WebData.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.AspNet.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.Core.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OAuth.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OpenId.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\obj\Debug\OnlineShop4.csprojResolveAssemblyReference.cache
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\obj\Debug\OnlineShop4.dll
+G:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\obj\Debug\OnlineShop4.pdb
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\OnlineShop4.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\OnlineShop4.pdb
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\Antlr3.Runtime.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.AspNet.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.Core.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OAuth.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OpenId.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\EntityFramework.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\Microsoft.Web.Infrastructure.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\Newtonsoft.Json.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Net.Http.Formatting.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Helpers.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Http.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Http.WebHost.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Mvc.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Optimization.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Razor.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.Deployment.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.Razor.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\WebGrease.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\WebMatrix.Data.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\WebMatrix.WebData.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\EntityFramework.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\Newtonsoft.Json.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Net.Http.Formatting.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Helpers.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Http.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Http.WebHost.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Mvc.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.Razor.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.Deployment.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\System.Web.WebPages.Razor.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\WebMatrix.Data.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\WebMatrix.WebData.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.AspNet.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.Core.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OAuth.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OpenId.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\obj\Debug\OnlineShop4.csprojResolveAssemblyReference.cache
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\obj\Debug\OnlineShop4.dll
+F:\My Work\Projects\Mobile phone shop\OnlineShop4\OnlineShop4\obj\Debug\OnlineShop4.pdb

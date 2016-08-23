@@ -1,0 +1,25 @@
+﻿@model OnlineShop4.ProductGalary
+
+<div class="productList">
+    <table>
+        <tr>
+            
+            <td>
+                <p class="image">
+                  <img src ="data:image/png;base64,@Convert.ToBase64String(Model.ImageData,0,Model.ImageData.Length)" width="200" />
+               </p>
+            </td>
+            <td>
+                <h3 class="title">
+                    @Html.ActionLink(Model.Model, "Details", "Home", new { id = @Model.Id}, null)
+                </h3>
+                <h3 class="publishedDate"> @Model.Brand</h3>
+                <h3 class="area">@Model.Description</h3>
+            </td>
+            <td>
+                <h3 class="price">@Model.Price$</h3>
+            </td>
+        </tr>
+    </table>
+</div>
+

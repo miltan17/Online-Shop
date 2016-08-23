@@ -1,0 +1,37 @@
+﻿@model IEnumerable<OnlineShop4.ProductGalary>
+
+@{
+    
+    if(Model == null)
+    {
+        ViewBag.status = "There is no such item";  
+    }
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>Welcome,</h1>
+                <h2>@ViewBag.Message</h2>
+            </hgroup>
+        </div>
+    </section>
+}
+
+<div>
+    @using (Html.BeginForm("Index", "Home", FormMethod.Get))
+    {
+        @Html.DropDownList("brand", new SelectList(ViewBag.brands))
+        @Html.DropDownList("price", new SelectList(ViewBag.prices))
+        <input type="submit" value="Search" />
+}
+
+</div>
+
+<h3>We suggest the following Products:</h3>
+
+ <div>
+@foreach (var item in Model) {
+    @Html.Partial("_ProductList",item)
+}
+</div>
